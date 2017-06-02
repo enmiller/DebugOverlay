@@ -14,4 +14,4 @@ For simulator usage, you can use the `toggleVisibility()` method to make the ove
 To use the spec compare feature, you must add the `NSPhotoLibraryUsageDescription`
 key and a value to your info.plist.
 
-![Demo Screenshot](screenshot.png)
+<img src="screenshot.png" width="375" height="667">
